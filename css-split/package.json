@@ -1,0 +1,17 @@
+{
+  "name": "css-split",
+  "version": "1.0.0",
+  "description": "css split demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css-split"
+  ],
+  "author": "YuanXuJia",
+  "license": "ISC",
+  "dependencies": {
+    "weui": "^1.1.2"
+  }
+}
