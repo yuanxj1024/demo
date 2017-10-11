@@ -12,6 +12,9 @@
   "author": "YuanXuJia",
   "license": "ISC",
   "dependencies": {
+    "less": "^3.0.0-alpha.3",
+    "less-loader": "^4.0.5",
+    "webpack": "^3.6.0",
     "weui": "^1.1.2"
   }
 }
